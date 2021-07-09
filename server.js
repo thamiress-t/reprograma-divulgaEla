@@ -1,5 +1,7 @@
 const express = require('express')
 const app = express()
+
+
 /*
 //conectar database
 
@@ -19,5 +21,6 @@ app.use('/titulos',titulo)
 app.use('/estudios',estudio)
 */
 
+const PORT = process.env.PORT || 3333
 
-app.listen(3333, ()=> console.log('Servidor rodando'))
+app.listen(PORT, ()=> console.log(`Servidor rodando na porta ${PORT}`))
