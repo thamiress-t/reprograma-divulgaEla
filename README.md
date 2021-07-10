@@ -96,8 +96,8 @@ A API disponibilizada aqui organiza os cursos disponibilizados no site, filtrand
 
 ### Regras de negócio
 
--  Não deverá é possível criar uma área com o mesmo nome de alguma já cadastrada.
--  Não deverá é possível criar um curso com o mesmo nome de algum já cadastrado.
+-  Não é possível criar uma área com o mesmo nome de alguma já cadastrada.
+-  Não é possível criar um curso com o mesmo nome de algum já cadastrado.
 -  Para criar um novo curso, deverá vinculá-lo no momento da criação a uma área de estudo já cadastrada no sistema.
 
 <br>
@@ -165,11 +165,12 @@ A API disponibilizada aqui organiza os cursos disponibilizados no site, filtrand
     "__v": 0
   }
 ```
-<br>
-<br>
 ## Melhorias Futuras
 
 Nos próximos passos, pretende-se acrescentar o nível de ensino pré-vestibular na API, já que o objetivo da plataforma é de não só diminuir a evasão e desmotivação das estudantes universitárias, mas também aumentar o interesse de novas garotas nas ciências exatas e engenharias, fazendo-as se sentirem pertencentes, representadas, acolhidas e capazes.
+
+<br>
+<br>
 
 ## Thamires Tavares
 - [instagram](https://www.instagram.com/thamiress_t)
