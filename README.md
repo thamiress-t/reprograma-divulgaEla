@@ -5,7 +5,7 @@ Turma Online 11 - Todas em Tech | Back-end | 2021 | Projeto Final
 
 ## Introdução da problemática
 
-<img src="https://www.seesp.org.br/site/images/PalavraMurilo-Imagens/Mulheres_quadrado.png" alt="video chamada" width="200">
+<img src="https://www.seesp.org.br/site/images/PalavraMurilo-Imagens/Mulheres_quadrado.png" alt="video chamada" width="500">
 Há pouca representatividade de mulheres em engenharias e ciências exatas e isto não é nenhuma novidade. Estão surgindo muitas iniciativas surgindo no meio da programação (e isto é ótimo!), mas  há pouquíssimas voltadas à mulheres em engenharias, matemática e física, enquanto que a desigualdade de gênero permanece nesses meios e influencia no aumento da evasão ou até diminuição do interesse em ingressar nestes cursos. Acontece que apenas matérias sobre mulheres na engenharia, no dia da mulher da engenharia, e posts em sites não ajudam a resolver o problema.
 
 
