@@ -2,6 +2,7 @@ require('dotenv').config()
 const mongoose = require('mongoose')
 
 //Para o Atlas/ Heroku:
+
 const MONGO_URL = process.env.MONGODB_URI
 const connect = () => {
     mongoose.connect(MONGO_URL,
