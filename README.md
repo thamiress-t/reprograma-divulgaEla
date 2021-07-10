@@ -15,6 +15,11 @@ Segundo o Censo da Educação Superior de 2016, as mulheres, que são a maior pa
 Tendo em vista isto, a elaExplica tem o objetivo de ser uma plataforma de disponibilização de cursos ministrados apenas por mulheres nas áreas de Engenharia, Matemática e Física para ensino superior e matemática e física para ensino médio e pré-vestibular, a fim de aumentar o ingresso e diminuir evasão  de mulheres nesses campos.
 A API disponibilizada aqui organiza os cursos disponibilizados no site, filtrando-os por área e, futuramente, por nível de ensino.
 
+Fontes:
+- [Why Do So Many Women Who Study Engineering Leave the Field?](https://hbr.org/2016/08/why-do-so-many-women-who-study-engineering-leave-the-field)
+- [Por que as meninas não querem fazer ciências exatas? – ABC](http://www.abc.org.br/2019/03/08/por-que-as-meninas-nao-querem-fazer-ciencias-exatas/)
+- [Mulheres conquistam cada vez mais seu espaço na Engenharia](https://g1.globo.com/es/espirito-santo/especial-publicitario/arcelormittal/elasnaengenharia/noticia/2021/05/19/mulheres-conquistam-cada-vez-mais-seu-espaco-na-engenharia.ghtml)
+
 ## Tecnologias utilizadas:
 | Ferramenta | Descrição |
 | --- | --- |
@@ -137,7 +142,7 @@ A API disponibilizada aqui organiza os cursos disponibilizados no site, filtrand
 <br>
 <br>
 
-### Dados para Collection Titulos
+### Dados para Collection Superior
 
 - id: autogerado e obrigatório
 - nome: texto e obrigatório
