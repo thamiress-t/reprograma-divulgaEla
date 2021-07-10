@@ -13,10 +13,12 @@ db.connect()
 app.use(express.json())
 
 //routes
+const index = require("./routes/index")
 const areas = require("./routes/areasRoutes")
 const superior = require("./routes/superiorRoutes")
 
 //usando as rotas
+app.use("/", index)
 app.use("/superior", superior)
 app.use("/areas", areas)
 
