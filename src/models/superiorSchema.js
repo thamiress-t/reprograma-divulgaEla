@@ -1,0 +1,37 @@
+//id
+//nome
+//descricao
+//pre-requisito
+//area
+//criadoEm
+
+const mongoose = require('mongoose')
+
+const superiorSchema = new mongoose.Schema({
+    _id: mongoose.Schema.Types.ObjectId,
+    nome: {
+        type: String,
+        required: true
+    },
+    descricao: {
+        type: String,
+        required: true
+    },
+    pre_requisito: {
+        type: String,
+        required: true
+    },
+    area: {
+        type: mongoose.Schema.Types.ObjectId,
+        required: true,
+        ref: 'area'
+
+    },
+    criadoEm: {
+        type: Date,
+        required: true,
+        default: new Date
+    }
+})
+
+module.exports = mongoose.model('superior', superiorSchema)
