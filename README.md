@@ -6,13 +6,13 @@ Turma Online 11 - Todas em Tech | Back-end | 2021 | Projeto Final
 ## Introdução da problemática
 
 <img src="https://www.seesp.org.br/site/images/PalavraMurilo-Imagens/Mulheres_quadrado.png" alt="video chamada" width="500">
-Há pouca representatividade de mulheres em engenharias e ciências exatas e isto não é nenhuma novidade. Estão surgindo muitas iniciativas surgindo no meio da programação (e isto é ótimo!), mas  há pouquíssimas voltadas à mulheres em engenharias, matemática e física, enquanto que a desigualdade de gênero permanece nesses meios e influencia no aumento da evasão ou até diminuição do interesse em ingressar nestes cursos. Acontece que apenas matérias sobre mulheres na engenharia, no dia da mulher da engenharia, e posts em sites não ajudam a resolver o problema.
+Há pouca representatividade de mulheres em engenharias e ciências exatas e isto não é nenhuma novidade. Estão surgindo muitas iniciativas surgindo no meio da programação (e isto é ótimo!), mas  há pouquíssimas voltadas à mulheres em engenharias, matemática e física, enquanto que a desigualdade de gênero permanece nesses meios e influencia no aumento da evasão ou até diminuição do interesse em ingressar nestes cursos. Acontece que apenas matérias sobre mulheres na engenharia - no dia da mulher da engenharia - e posts em sites não ajudam a resolver o problema.
 
 
 Segundo o Censo da Educação Superior de 2016, as mulheres, que são a maior parte da população brasileira, já representam 57,2% dos estudantes matriculados em cursos de graduação no país. Ainda assim, este aumento não acompanhou a proporção entre homens e mulheres nos cursos de ciências exatas. O mesmo relatório mostra, por exemplo, que no curso de engenharia mecânica a participação feminina está em 10,2%, fenômeno que se repete na engenharia elétrica (13,1%) e na engenharia civil (30,3%). Então, se as brasileiras já são maioria no ensino superior, por que são tão poucas nas ciências exatas e engenharias? A pergunta não é de só uma resposta, mas a elaExplica vem como solução para uma vertente deste problema: representatividade.
 
 
-Tendo em vista isto, a elaExplica tem o objetivo de ser uma plataforma de disponibilização de cursos ministrados apenas por mulheres nas áreas de Engenharia, Matemática e Física para ensino superior e matemática e física para ensino médio e pré-vestibular, a fim de aumentar o ingresso e diminuir evasão  de mulheres nesses campos.
+Tendo em vista isto, a elaExplica tem o objetivo de ser uma plataforma de disponibilização de cursos online ministrados apenas por mulheres nas áreas de Engenharia, Matemática e Física para ensino superior (inicialmente), a fim de diminuir a evasão  de mulheres nesses campos.
 A API disponibilizada aqui organiza os cursos disponibilizados no site, filtrando-os por área e, futuramente, por nível de ensino.
 
 Fontes:
